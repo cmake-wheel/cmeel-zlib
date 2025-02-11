@@ -15,6 +15,7 @@ repository = "https://github.com/cmake-wheel/cmeel-zlib.git"
 upstream = "https://zlib.net/"
 
 [tool.cmeel]
+build-number = 0
 has-sitelib = false
 run-tests = false
 
